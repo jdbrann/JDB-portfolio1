@@ -1,0 +1,95 @@
+.page {
+  background-color: silver;
+}
+
+section {
+  background: lightblue;
+
+}
+nav {
+  background: blue;
+  border: 5px;
+}
+.my-sig {
+  margin: auto;
+  margin-bottom: 30px;
+  margin-left: 10px;
+}
+.vikinglogo {
+  width: 120px;
+  height: 120px;
+  margin-left: 10px;
+}
+.topnav button {
+    display: block;
+    background: gray;
+    float: right;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    margin: 10px;
+    margin-top: 40px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.my-pic {
+  width: 12%;
+  height: 12%;
+  border-radius: 50%;
+  float: left;
+  margin-bottom: 15px;
+  padding: 20px;
+}
+.who-text {
+  float: right;
+  margin-top: 20px;
+}
+h2 {
+  font-size: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+p {
+  margin-right: 20px;
+  margin-left: 20px;
+  font-size: 30px;
+  font-family: Marcellus SC, serif;
+}
+.drive {
+  width: 310px;
+  height: 480px;
+}
+.road {
+  width: 310px;
+  height: 480px;
+}
+.vid {
+  width: 310px;
+  height:460px;
+  margin-top: 40px;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+
+
+}
+.read-more {
+  font-size: 20px;
+  background: gray;
+  padding: 20px;
+  border-radius: 15%;
+  color: blue;
+  }
+.refs {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+h4 {
+  font-size: 30px;
+  font-family: Marcellus SC, serif;
+}
